@@ -17,3 +17,5 @@ For this project you will need to use a machine that supports GIT or GIT Bash so
 This project required a .py file, however, the Udacity course that was chosen was for the program called R, therefore an .r file was added to this project instead, using data from the previous project I completed.
 
 ### Credits
+Original repository used: https://github.com/nu52808/pdsnd_github.git
+Information on licensing and creating a git repository:https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github
