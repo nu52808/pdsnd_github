@@ -8,7 +8,7 @@ qplot(x=User.Type, data=wash)+
 labs(y='Counts', x='User Type')+
 ggtitle("Bikeshare Users in Washington")
 
-# The histogram graph shows the data for each user type. The two user types are Customer and Subscriber.
+# The histogram graph shows the data for each user type. We have two user types in the graph, which are Customer and Subscriber.
 
 #I chose to use the loop/if statements just to practice. The loop counts how many times 'Male' or 'Female' shows up in the Gender column.
 m=0
