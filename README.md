@@ -5,7 +5,7 @@
 
 
 ### Description
-This project is focused on showcasing my capabilities in using Github. I will be showing my skill in being able to create/clone a repository, create commits, and update my remote repository.
+This project is focused on showcasing my capabilities in using Github. I will be showing my skill in being able to create/clone a repository, create commits, and update my remote repository, following the rules outlined in Udacity.
 
 ### Files used
 For this project, the main file being used is the bikeshare.py file and this current README.md file.
