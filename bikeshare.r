@@ -13,11 +13,7 @@ ggtitle("Bikeshare Users in Washington")
 #I chose to use the loop/if statements just to practice. The loop counts how many times 'Male' or 'Female' shows up in the Gender column.
 m=0
 f=0
-for (variable in ny$Gender) {if(variable=='Male'){
-  m=m+1
-}
-  else if(variable=='Female'){f=f+1
-  }
+for (variable in ny$Gender) {if_else(variable=='Male', m=m+1, if_else(variable=='Female', f=f+1, 0))
 
 
 }
