@@ -36,7 +36,7 @@ def get_filters():
 
 
     print('-'*40)
-    return city, month, day
+    return city, month
 
 
 def load_data(city, month, day):
@@ -68,7 +68,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nCalculating The Most Frequent Times of Travel...\n')
+    print('\The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
     # TO DO: display the most common month
